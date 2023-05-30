@@ -1,0 +1,4 @@
+name: mcslot
+version: '${version}'
+main: dev.isksss.mcslot.Mcslot
+api-version: 1.19
